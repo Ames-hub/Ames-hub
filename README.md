@@ -6,6 +6,7 @@ I'm also known as Amelia
 
 <hr>✨ About me ✨ <br />
 - I am a beginner python developer<br />
+- I am beginning to learn CSS<br />
 - I am a Member of the Rose Bloom Organisation<br />
 - Currently, I am most useful in the development of Discord bots <br />(Still not amazing, mind you. but competent enough.)
 
