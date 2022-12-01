@@ -9,10 +9,10 @@ I'm also known as Amelia
 - I am a Member of the Rose Bloom Organisation<br />
 - Currently, I am most useful in the development of Discord bots <br />(Still not amazing, mind you. but competent enough.)
 
+<hr>
+
 ### My Github Trophy's :)
 ![trophys](https://github-profile-trophy.vercel.app/?username=Ames-hub&theme=radical&row=1&column=10)
+Not much to see here hey? :( Shame
 
-<!---
-Ames-hub/Ames-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr>
