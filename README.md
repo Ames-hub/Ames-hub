@@ -1,4 +1,5 @@
 ### Hello there! I'm FriendlyFox.exe
+I'm also known as Amelia
 
 ![profile](https://discord.c99.nl/widget/theme-4/913574723475083274.png)
 
