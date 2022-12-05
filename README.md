@@ -5,12 +5,6 @@ I'm on github posting my project's here as I slowly learn Front-End and Back-end
 Contact me on Discord if you wanna Talk!
 
 <hr>✨ About me ✨ <br />
-- I am a beginner python developer<br />
-- I am currently wanting to learn HTML and CSS<br />
-  Learnt a little making this readme.md as well :D <br />
-- I am a Member of the Rose Bloom Organisation<br />
-- Currently, I am trying to learn to develop Discord bots <br />I'm not there yet, but I'll get there eventually
-
 - I am a beginner python developer
 - I am currently wanting to learn HTML and CSS
   Learnt a little making this readme.md as well :D
