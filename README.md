@@ -4,7 +4,6 @@ I'm on github posting my project's here as I slowly learn Front-End and Back-end
 ![profile](https://discord.c99.nl/widget/theme-4/913574723475083274.png) <br />
 Contact me on Discord if you wanna Talk!
 
-<hr>✨ About me ✨ <br />
 - I am a beginner python developer
 - I am currently wanting to learn HTML and CSS
   Learnt a little making this readme.md as well :D
