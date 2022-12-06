@@ -8,7 +8,6 @@ Contact me on Discord if you wanna Talk!
 - I am currently wanting to learn HTML and CSS
   Learnt a little making this readme.md as well :D
 - I am a Member of the Rose Bloom Organisation
-- Currently, I am trying to learn to develop Discord bots :)
 
 <hr>
 Programming Languages I currently know or am Learning currently :)
