@@ -12,9 +12,9 @@ Contact me on Discord if you wanna Talk!
 <hr>
 Programming Languages I currently know or am Learning currently :)
 
-- Python 3.10 Beginner.
-- HTML. Beginner 
-- CSS. N o p e .
+- Python 3.10 | Intermediate
+- HTML | Nope.
+- CSS | N o p e .
 
 <hr>
 
