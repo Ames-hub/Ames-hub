@@ -24,6 +24,5 @@ Programming Languages I currently know or am Learning currently :)
 
 ### My Github Trophy's :)
 ![trophys](https://github-profile-trophy.vercel.app/?username=Ames-hub&theme=radical&row=1&column=10)
-Not much to see here hey? :( Shame
 
 <hr>
