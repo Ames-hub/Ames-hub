@@ -10,6 +10,10 @@ Contact me on Discord if you wanna Talk!
 - I am a Member of the Rose Bloom Organisation
 
 <hr>
+Current active Project
+- Hidden for now
+
+<hr>
 Programming Languages I currently know or am Learning currently :)
 
 - Python 3.10 | Intermediate
