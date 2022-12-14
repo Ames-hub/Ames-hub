@@ -1,4 +1,4 @@
-### Hello there! I'm FriendlyFox.exe (AKA Amelia)
+### Hello there! I'm FriendlyFox.exe
 I'm on github posting my project's here as I slowly learn Front-End and Back-end development<br />My goal is to learn and eventually be qualified as a Full-Stack developer :)
 
 ![profile](https://discord.c99.nl/widget/theme-4/913574723475083274.png) <br />
