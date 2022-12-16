@@ -5,8 +5,6 @@ I'm on github posting my project's here as I slowly learn Front-End and Back-end
 Contact me on Discord if you wanna Talk!
 
 - I am a beginner python developer
-- I am currently wanting to learn HTML and CSS
-  Learnt a little making this readme.md as well :D
 - I am a Member of the Rose Bloom Organisation
 
 <hr>
@@ -17,8 +15,9 @@ Current active Project
 Programming Languages I currently know or am Learning currently :)
 
 - Python 3.10 | Beginner
-- HTML | Nope.
-- CSS | N o p e .
+- HTML | Intermediate
+- CSS | Intermediate
+- JavaScript | Beginner
 
 <hr>
 
