@@ -1,36 +1,28 @@
-<p align="center">
-Hello there! I'm FriendlyFox.exe
-I'm on github posting my project's here as I slowly learn Front-End and Back-end development<br />My goal is to learn and eventually be qualified as a Full-Stack developer :)</p>
+<h1 align="center">Hello there, I'm FriendlyFox!</h1>
+<h3 align="center">A Beginner full-stack developer. Currently learning :)</h3>
 
-<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ames-hub&label=Profile%20views&color=0e75b6&style=flat" alt="ames-hub" /> </p>
 
-My roadmap to becoming a Fullstack Developer :)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ames-hub" alt="ames-hub" /></a> </p>
 
-- beginner python developer
-- beginner front end developer
-- a Member of the Rose Bloom SMP Organisation
+- 🔭 My Main project is currently [Melancholy RPG GUI Game](https://github.com/Ames-hub/Melancholy)
 
-![profile](https://discord.c99.nl/widget/theme-4/913574723475083274.png)
+- 🌱 I’m currently learning **Python, HTML, CSS and JavaScript. I want to learn Java**
 
-<br />
+- 📫 How to reach me on Discord **FriendlyFox.exe#6385**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ames-Hub&show_icons=true&theme=transparent)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<hr>
-Current active Project
-- Hidden for now
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<hr>
-Programming Languages I currently know or am Learning currently :)
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/ameshub"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ameshub" /></a></p><br><br>
 
-- Python 3.10 | Beginner
-- HTML | Intermediate
-- CSS | Intermediate
-- JavaScript | Beginner
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ames-hub&show_icons=true&locale=en&layout=compact" alt="ames-hub" /></p>
 
-<hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ames-hub&show_icons=true&locale=en" alt="ames-hub" /></p>
 
-### My Github Trophy's :)
-![trophys](https://github-profile-trophy.vercel.app/?username=Ames-hub&theme=radical&row=1&column=10)<br /><br />
-
-<hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ames-hub&" alt="ames-hub" /></p>
