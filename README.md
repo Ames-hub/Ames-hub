@@ -35,8 +35,6 @@
 Side Projects!
 
 Big side projects
-- APS Website
-- Western Plains Archers website redesign | First commision :D Currently negotiating
 - Researching and learning to develop a Neural Network
 
 Small Side Projects
