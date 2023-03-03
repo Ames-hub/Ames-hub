@@ -7,7 +7,9 @@
 
 - 🔭 My Main project is currently [Unreality.pw discord bot](https://github.com/Ames-hub/Unreality.pw)
 
-- 🌱 I’m currently learning **Python, HTML, CSS and JavaScript. I want to learn Java**
+- 🌱 I'm currently looking to JavaScript, Lua and maybe Java**
+
+- 📖 I know Python, CSS and HTML
 
 - 📫 How to reach me on Discord **FriendlyFox.exe#6385**
 
