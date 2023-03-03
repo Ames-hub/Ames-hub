@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ames-hub" alt="ames-hub" /></a> </p>
 
-- 🔭 My Main project is currently [Melancholy RPG GUI Game](https://github.com/Ames-hub/Melancholy)
+- 🔭 My Main project is currently [Unreality.pw discord bot](https://github.com/Ames-hub/Unreality.pw)
 
 - 🌱 I’m currently learning **Python, HTML, CSS and JavaScript. I want to learn Java**
 
