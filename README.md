@@ -17,9 +17,6 @@
 
 ![profile](https://discord.c99.nl/widget/theme-2/913574723475083274.png)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ameshub"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ameshub" /></a></p><br><br>
-
 <p align="left">
 </p>
 
