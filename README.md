@@ -1,40 +1,46 @@
-<h1 align="center">Hello there, I'm FriendlyFox!</h1>
-<h3 align="center">A Beginner Backend developer. Currently learning :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ames-hub&label=Profile%20views&color=0e75b6&style=flat" alt="ames-hub" /> </p>
+# Hiiii!, I'm Amelia! Owner of AmesHub Git account 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ames-hub" alt="ames-hub" /></a> </p>
 
-- 🔭 My Main project is currently [Unreality.pw discord bot](https://github.com/Ames-hub/Unreality.pw)
+![Logo](https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/69c7e73fea7ad35e9000ce41e1622036.png)
 
-- 🌱 I'm currently looking to JavaScript, Lua and maybe Java**
+[![discord](https://discord.c99.nl/widget/theme-2/913574723475083274.png)](https://www.linkedin.com/)
 
-- 📖 I know Python, CSS and HTML
+## 🚀 About Me
+Hi! So about me, I'm a full stack developer, I code mainly for fun
+but I also take commision work, I'd say I'm Intermediate in my level with Python and rapidly approaching Advanced level! ^^ (Looking forward to that day lol)
+## 🔗 Links
 
-- 📫 How to reach me on Discord **FriendlyFox.exe#6385**
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-<h3 align="left">Connect with me:</h3>
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-![profile](https://discord.c99.nl/widget/theme-2/913574723475083274.png)
 
-<p align="left">
-</p>
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on API's and Discord Bots!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+🧠 I'm currently learning Neural Networks!
 
-<p><img align="left" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ames-hub&show_icons=true&theme=radical)"
+👯‍♀️ I'm looking to collaborate on Backend Code :D
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ames-hub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+🤔 I'm looking for help with how the heck I make a Neural Network :'D
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ames-hub&" alt="ames-hub" /></p>
+💬 Ask me about anything you want! ^^
 
-<hr>
+📫 You can reach me on discord! friendlyfox.exe
 
-Side Projects!
+😄 I go by She/Her :D
 
-Big side projects
-- Researching and learning to develop a Neural Network
+⚡️ Here's a Fun fact, Chainsaws weren't always used for trees!
 
-Small Side Projects
-- None on-going
+
+## 🛠 Skills
+I know Javascript, HTML, CSS
+
+Python, SQL,
+
+I can use PostgreSQL!
+
+I know a passable amount about Networking
+
+I'm good at debugging and thinking
