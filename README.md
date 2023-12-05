@@ -9,23 +9,16 @@
 ## 🚀 About Me
 Hi! So about me, I'm a full stack developer, I code mainly for fun
 but I also take commision work, I'd say I'm Intermediate in my level with Python and rapidly approaching Advanced level! ^^ (Looking forward to that day lol)
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on API's and Discord Bots!
+## 
+👩‍💻 I'm currently working on PyHoster, Discord bots and API's!
 
 🧠 I'm currently learning Neural Networks!
 
-👯‍♀️ I'm looking to collaborate on Backend Code :D
+👯‍♀️ Eager to collaborate on the backend code – it's where the magic happens! ✨
 
-🤔 I'm looking for help with how the heck I make a Neural Network :'D
+🤔 Seeking guidance on the mystical art of creating a Neural Network – any wizards out there? 😄
 
-💬 Ask me about anything you want! ^^
+💬 Ask me anything excluding childhood; I'm an open book! ^^
 
 📫 You can reach me on discord! friendlyfox.exe
 
@@ -34,13 +27,19 @@ but I also take commision work, I'd say I'm Intermediate in my level with Python
 ⚡️ Here's a Fun fact, Chainsaws weren't always used for trees!
 
 
+## Who Am I? ^^
+Without getting too personal, Hi there! My name is Amelia, I'm a lesbian and I go by She/Her. I am an Australian, I love playing games and I don't like NSFW stuff so don't-
 ## 🛠 Skills
-I know Javascript, HTML, CSS
+I know the following languages and tools!
 
-Python, SQL,
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-I can use PostgreSQL!
-
-I know a passable amount about Networking
+I know a passable amount about Networking (enough to get servers running)
 
 I'm good at debugging and thinking
