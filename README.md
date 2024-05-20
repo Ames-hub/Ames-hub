@@ -9,26 +9,26 @@
 ## 🚀 About Me
 Hi! So about me, I'm a full stack developer, I code mainly for fun
 but I also take commision work, I'd say I'm Intermediate in my level with Python and rapidly approaching Advanced level! ^^ (Looking forward to that day lol)
-## 
-👩‍💻 I'm currently working on PyHoster, Discord bots and API's!
 
-🧠 I'm currently learning Neural Networks!
+I love working on projects, even when they are often not needed. You'll often find my own home-brewed solutions in [my repositories!](https://github.com/Ames-hub?tab=repositories) Feel free to use them! :) 
+## 
+👩‍💻 My favourite projects are [PyHoster](https://github.com/Ames-hub/pyhoster), [AliceAM](https://github.com/Ames-hub/AliceAM) and [Rose Panel](https://github.com/Ames-hub/Rose-panel)!
 
 👯‍♀️ Eager to collaborate on the backend code – it's where the magic happens! ✨
 
-🤔 Seeking guidance on the mystical art of creating a Neural Network – any wizards out there? 😄
+🤔 Seeking guidance on the difficult art of creating a Neural Network – any wizards out there? 😄
 
 💬 Ask me anything excluding childhood; I'm an open book! ^^
 
 📫 You can reach me on discord! friendlyfox.exe
 
-😄 I go by She/Her :D
+😄 I go by She/Her :D but I don't mind They/Them
 
-⚡️ Here's a Fun fact, Chainsaws weren't always used for trees!
-
+⚡️ Here's a cool history fact, In Sweden 1979, Homosexuality was still classified as an illness! So they protested by 'calling in gay to work'
 
 ## Who Am I? ^^
-Without getting too personal, Hi there! My name is Amelia, I'm a lesbian and I go by She/Her. I am an Australian, I love playing games and I don't like NSFW stuff so don't-
+My name is Amelia, I'm a lesbian and I am an Australian :D I love playing games too!<br>
+My favourite colour is pastel pink and I am a former catholic :>
 ## 🛠 Skills
 I know the following languages and tools!
 
