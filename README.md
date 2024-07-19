@@ -14,12 +14,6 @@ I love working on projects, even when they are often not needed. You'll often fi
 ## 
 👩‍💻 My favourite projects are [PyHoster](https://github.com/Ames-hub/pyhoster), [AliceAM](https://github.com/Ames-hub/AliceAM) and [Rose Panel](https://github.com/Ames-hub/Rose-panel)!
 
-👯‍♀️ Eager to collaborate on the backend code – it's where the magic happens! ✨
-
-🤔 Seeking guidance on the difficult art of creating a Neural Network – any wizards out there? 😄
-
-💬 Ask me anything excluding childhood; I'm an open book! ^^
-
 📫 You can reach me on discord! friendlyfox.exe
 
 😄 I go by She/Her :D but I don't mind They/Them
@@ -28,7 +22,7 @@ I love working on projects, even when they are often not needed. You'll often fi
 
 ## Who Am I? ^^
 My name is Amelia, I'm a lesbian and I am an Australian :D I love playing games too!<br>
-My favourite colour is pastel pink and I am a former catholic :>
+My favourite colour is pastel red and I am a former catholic :>
 ## 🛠 Skills
 I know the following languages and tools!
 
