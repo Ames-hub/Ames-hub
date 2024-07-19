@@ -7,10 +7,9 @@
 [![discord](https://discord.c99.nl/widget/theme-2/913574723475083274.png)](https://www.linkedin.com/)
 
 ## 🚀 About Me
-Hi! So about me, I'm a full stack developer, I code mainly for fun
-but I also take commision work, I'd say I'm Intermediate in my level with Python and rapidly approaching Advanced level! ^^ (Looking forward to that day lol)
-
-I love working on projects, even when they are often not needed. You'll often find my own home-brewed solutions in [my repositories!](https://github.com/Ames-hub?tab=repositories) Feel free to use them! :) 
+Hi! So about me, I'm a full stack developer, I code mainly for fun.<br>
+I love working on projects, even when they are often not needed, such as free variants of paid software or my own version of something free that already works well.
+You'll often find my own home-brewed solutions in [my repositories!](https://github.com/Ames-hub?tab=repositories) Feel free to use them! :)
 ## 
 👩‍💻 My favourite projects are [PyHoster](https://github.com/Ames-hub/pyhoster), [AliceAM](https://github.com/Ames-hub/AliceAM) and [Rose Panel](https://github.com/Ames-hub/Rose-panel)!
 
