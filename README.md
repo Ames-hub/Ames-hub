@@ -20,7 +20,7 @@ You'll often find my own home-brewed solutions in [my repositories!](https://git
 ⚡️ Here's a cool history fact, In Sweden 1979, Homosexuality was still classified as an illness! So they protested by 'calling in gay to work'
 
 ## Who Am I? ^^
-My name is Amelia, I'm a lesbian and I am an Australian :D I love playing games too!<br>
+My name is Amelia, I'm an Australian :D I love playing games too!<br>
 My favourite colour is pastel red and I am a former catholic :>
 ## 🛠 Skills
 I know the following languages and tools!
